@@ -1,0 +1,15 @@
+/*
+!/src
+!/tools
+!/.gitignore
+!/LICENSE.txt
+!/MANIFEST.in
+!/README.md
+!/README.src.md
+!/setup.py
+!/syntax.md
+!/syntax.src.md
+*.cache
+*.egg-info
+*.pyc
+__pycache__

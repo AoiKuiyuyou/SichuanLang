@@ -1,0 +1,10 @@
+include demo/*
+include tools/*/*
+include .gitignore
+include LICENSE.txt
+include MANIFEST.in
+include README.md
+include README.src.md
+include setup.py
+include syntax.md
+include syntax.src.md

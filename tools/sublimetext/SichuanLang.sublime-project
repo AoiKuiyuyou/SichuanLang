@@ -1,0 +1,33 @@
+{
+    "folders":
+    [
+        {
+            "file_exclude_patterns":
+            [
+            ],
+            "folder_exclude_patterns":
+            [
+                "__pycache__",
+            ],
+            "folder_include_patterns":
+            [
+                "src",
+                "src/*",
+                "tools",
+                "tools/*"
+            ],
+            "path": "../.."
+        }
+    ],
+    "settings":
+    {
+        "auto_indent": true,
+        "detect_indentation": true,
+        "smart_indent": true,
+        "tab_size": 4,
+        "translate_tabs_to_spaces": true,
+        "trim_automatic_white_space": true,
+        "trim_trailing_white_space_on_save": true,
+        "use_tab_stops": true
+    }
+}
